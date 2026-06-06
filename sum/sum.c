@@ -1,3 +1,8 @@
+// Roll: 5103
+// Name: MD MY ZIHAD
+// Lab No: 01
+// Experiment Name: Count SUM of this number.
+
 #include <stdio.h> // ইনপুট-আউটপুট (printf, scanf) ব্যবহার করার লাইব্রেরি
 
 int main() // program execution শুরু হয় এখান থেকে
